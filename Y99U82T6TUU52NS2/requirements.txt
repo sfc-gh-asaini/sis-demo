@@ -1,0 +1,10 @@
+plotly
+streamlit-aggrid
+streamlit-slickgrid
+streamlit-quill
+streamlit-lexical
+streamlit_code_editor
+streamlit_calendar
+streamlit-echarts
+streamlit-pdf-viewer
+streamlit-antd-components
